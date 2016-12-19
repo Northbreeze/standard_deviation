@@ -1,0 +1,32 @@
+=======
+License
+=======
+
+=======
+standard_deviation is distributed under a lab1_DSCI_524
+
+standard_deviation license
+==============
+
+Copyright (c) 2016, Nasim Taba.
+All rights reserved.
+
+
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted.
+
+
+About the Copyright Holders
+===========================
+
+Nasim Taba created standard deviation package. It can be used by anyone and don’t require any permission to change or modify.
+
+#-----------------------------------------------------------------------------
+# Copyright (c) 2016, Nasim Taba, UBC
+# All rights reserved.
+#
+#
+#
+# The full license is in the LICENSE file, distributed with this software.
+#-----------------------------------------------------------------------------
